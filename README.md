@@ -3,7 +3,7 @@ External Bot &amp; Cheats
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/PtRgRdKh8r)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.2-blue.svg)
 
 ## FEATURES
 ```fix
