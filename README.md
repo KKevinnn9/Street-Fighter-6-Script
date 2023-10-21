@@ -9,29 +9,37 @@ External Bot &amp; Cheats
 ```fix
 
 
-Stream proof
-Bypass
-Combo Logic assist
-Bot Script for: Aki, Rashid, Cammy, Lily, Sangief, JP, Marisa, Manon, Dee Jay, E.Honda, Dhalsim, Blanka, 
-Ken, Juri, Kimberly, Guile, Chung-li, Jamie, Luke, Ryu
-(Evade funtions)
-Battle Hub
-Fighting Ground
-Delay 
+Features:
 
-Activable
-Perfect K.O. for fun
-Perfect Parry
-Drive Impact
-Lock
-Punish Counter
-Drive Rush
-Jump
-Throw
+-) Stream Proof
+-) Afk Bot
+    -) Script for "A.K.I.","Rashid","Cammy","Lily","Zangief","Jp","Marisa","Manon","Deejay","Ehonda","Dhalsim","Blanka",
+              "Ken","Juri","Kimberly","Guile","Chunli","Jamie","Luke","Ryu"
+    -) Combo Logic assist
+    -) Battle Hub
+    -) Fighting Ground
+    -) Delay 
 
-Moveset Research
-
-Save Configs
+-) Misc
+    -) Perfect K.O. for fun
+    -) Perfect Parry
+    -) Drive Impact
+    -) Lock
+    -) Punish Counter
+    -) Drive Rush
+    -) Jump
+    -) Throw
+-) TriggerKey
+    -) Motionkey 
+    -) AttackCollision
+    -) DamageCollision
+    -) Trigger
+    -) Vfx
+    -) Moveset Research
+    -) Action Data
+-) Controls
+    -) Config buttons controller
+-) Save Configs
 
 ```
 
