@@ -54,8 +54,7 @@ click image to display video
 https://github.com/Forbidi/Street-Fighter-6-Script/assets/29312029/c8ee07e8-dd52-4fe3-8300-7e38d2b2b828
 
 
-## Download:
-The latest version can be downloaded [here](https://github.com/Forbidi/Street-Fighter-6-Script/releases/latest/download/Loader.zip).
+
 
 ## Discord
 
