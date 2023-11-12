@@ -1,48 +1,45 @@
 # Private-Street-Fighter-6-External 🌟
-External Bot &amp; Cheats
+A Private Street Fighter 6 External Bot & Cheats repository! This external bot and cheats package brings an array of features to elevate your Street Fighter 6 funny experience.
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/pQZYd8sGqF)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
 
 
-## FEATURES
-```fix
-
+## Features
 
 Features:
 
--) Stream Proof
--) Afk Bot
-    -) Script for "A.K.I.","Rashid","Cammy","Lily","Zangief","Jp","Marisa","Manon","Deejay","Ehonda","Dhalsim","Blanka",
-              "Ken","Juri","Kimberly","Guile","Chunli","Jamie","Luke","Ryu"
-    -) Combo Logic assist
-    -) Battle Hub
-    -) Fighting Ground
-    -) Delay 
+- **Stream Proof**
+- **Afk Bot**
+    - Script for characters: "A.K.I.", "Rashid", "Cammy", "Lily", "Zangief", "Jp", "Marisa", "Manon", "Deejay", "Ehonda", "Dhalsim", "Blanka",
+              "Ken", "Juri", "Kimberly", "Guile", "Chunli", "Jamie", "Luke", "Ryu"
+    - Combo Logic assist
+    - Battle Hub
+    - Fighting Ground
+    - Delay 
 
--) Misc
-    -) Perfect K.O. for fun
-    -) Perfect Parry
-    -) Drive Impact
-    -) Lock
-    -) Punish Counter
-    -) Drive Rush
-    -) Jump
-    -) Throw
--) TriggerKey
-    -) Motionkey 
-    -) AttackCollision
-    -) DamageCollision
-    -) Trigger
-    -) Vfx
-    -) Moveset Research
-    -) Action Data
--) Controls
-    -) Config buttons controller
--) Save Configs
+- **Misc**
+    - Perfect K.O.
+    - Perfect Parry
+    - Drive Impact
+    - Lock
+    - Punish Counter
+    - Drive Rush
+    - Jump
+    - Throw
+- **TriggerKey**
+    - Motionkey 
+    - AttackCollision
+    - DamageCollision
+    - Trigger
+    - Vfx
+    - Moveset Research
+    - Action Data
+- **Controls**
+    - Config buttons for the controller
+- **Save Configs**
 
-```
 
 ## Media
 click image to display video
