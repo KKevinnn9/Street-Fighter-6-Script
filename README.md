@@ -55,4 +55,4 @@ https://github.com/Forbidi/Street-Fighter-6-Script/assets/29312029/c8ee07e8-dd52
 
 ## Discord
 
-https://discord.gg/pQZYd8sGqF
+[Join our Discord community](https://discord.gg/pQZYd8sGqF)
