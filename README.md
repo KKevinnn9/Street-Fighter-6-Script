@@ -1,3 +1,5 @@
+![Suki](https://github.com/Forbidi/Street-Fighter-6-Script/assets/29312029/8da6ba07-cf7c-489a-a2c6-6faccb6db6ba)
+
 # Private-Street-Fighter-6-External 🌟
 A Private Street Fighter 6 External Bot & Cheats repository! This external bot and cheats package brings an array of features to elevate your Street Fighter 6 funny experience.
 
