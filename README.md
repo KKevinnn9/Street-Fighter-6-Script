@@ -40,6 +40,8 @@ Features:
     - Config buttons for the controller
 - **Save Configs**
 
+## Tier List Script
+![my-image](https://github.com/Forbidi/Street-Fighter-6-Script/assets/29312029/f4e283d4-6a10-4d1e-8585-92a4a34429f8)
 
 ## Media
 click image to display video
