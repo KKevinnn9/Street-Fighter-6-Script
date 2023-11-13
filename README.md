@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://github.com/Forbidi/Street-Fighter-6-Script/assets/29312029/8da6ba07-cf7c-489a-a2c6-6faccb6db6ba" alt="Suki">
+
+(screenshot of szukiii on discord)
 </div>
 
 
